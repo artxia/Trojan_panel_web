@@ -1,8 +1,7 @@
 # 一键更改 Trojan-Panel 面板端口并设置伪装站点
 
 
-![image](https://raw.githubusercontent.com/artxia/Trojan_panel_web/master/image.png)
-
+- 修改了一下伪装站点
 
  # 脚本介绍
  
