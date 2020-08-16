@@ -66,8 +66,8 @@ if test -s /etc/nginx/nginx.conf; then
 	sleep 2s
 	rm -rf /usr/share/nginx/html/*
 	cd /usr/share/nginx/html/
-	wget https://raw.githubusercontent.com/artxia/Trojan_panel_web/master/web.zip
-	unzip web.zip
+	wget https://raw.githubusercontent.com/artxia/Trojan_panel_web/master/web/web.tar.gz
+	tar xvf web.tar.gz
 	green " "
 	green "================================="
 	blue "       开始配置trojan-web"
