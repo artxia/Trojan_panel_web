@@ -1,5 +1,6 @@
 # 一键更改 Trojan-Panel 面板端口并设置伪装站点
 
+核心项目：https://github.com/Jrohy/trojan
 
 - 修改了一下伪装站点
 
